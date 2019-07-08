@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "webkit"
 
-  s.homepage     = "http://EXAMPLE/webkit"
+  s.homepage     = "https://github.com/xiaoboJoin/webkit.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com:xiaoboJoin/webkit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/xiaoboJoin/webkit.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
